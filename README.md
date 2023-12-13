@@ -1,10 +1,10 @@
 # Computer-Vision-Hand-Tracking-and-Finger-Count
 
 ## Hand Tracking
-Detecting and tracking 21 3D hand landmarks using mediapipe liblary faunctions.
+Detect and track 21 3D hand landmarks using OpenCV and mediapipe liblaries.
 
 ## Finger Counter
-count the number of fingers Using hand tracking module.  This is useful if you want the computer to perform tasks based on the number of fingers.
+Count the number of fingers Using hand tracking module. This is useful if you want the computer to perform tasks based on the number of fingers.
 
 
 <img width="525" alt="image" src="https://github.com/yy7-f/Computer-Vision-Hand-Tracking-and-Finger-Count/assets/76237852/e9b99db8-40fb-421b-b107-d4275f2b3915">
