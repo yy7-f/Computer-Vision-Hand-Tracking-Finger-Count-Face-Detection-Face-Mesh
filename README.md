@@ -1,4 +1,4 @@
-# Computer-Vision-Hand-Tracking-and-Finger-Count
+# Computer-Vision-Hand-Tracking-and-Finger-Count-Face-Detection-Face-Mesh
 
 ## Hand Tracking
 Detect and track 21 3D hand landmarks using OpenCV and mediapipe liblaries.
