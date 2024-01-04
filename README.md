@@ -13,8 +13,19 @@ Count the number of fingers Using hand tracking module. This is useful if you wa
 
 <img width="667" alt="image" src="https://github.com/yy7-f/Computer-Vision-Hand-Tracking-and-Finger-Count/assets/76237852/3dbb8459-73c3-44f5-b652-efdf5aea6c55">
 
+
+## Face Detection
+
+![image](https://github.com/yy7-f/Computer-Vision-Hand-Tracking-Finger-Count-Face-Detection-Face-Mesh-Pose-Estimation/assets/76237852/896362f0-e968-47f5-9bc2-93cecece2e37)
+
+
+## Face Mesh
+
 <img width="607" alt="image" src="https://github.com/yy7-f/Computer-Vision-Hand-Tracking-and-Finger-Count/assets/76237852/ba960de7-0ace-4f2b-abcd-08a95d010981">
 
-
+## Pose Estimation
 
 <img width="521" alt="image" src="https://github.com/yy7-f/Computer-Vision-Hand-Tracking-Finger-Count-Face-Detection-Face-Mesh-Pose-Estimation/assets/76237852/093c0fc3-30ee-4932-9226-8d0ad77857b4">
+
+
+
