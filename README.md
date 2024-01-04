@@ -20,14 +20,19 @@ Count the number of fingers Using hand tracking module. This is useful if you wa
 
 
 ## Face Detection
+Detect 6 facial landmarks.
 
 ![image](https://github.com/yy7-f/Computer-Vision-Hand-Tracking-Finger-Count-Face-Detection-Face-Mesh-Pose-Estimation/assets/76237852/896362f0-e968-47f5-9bc2-93cecece2e37)
 
 
 ## Face Mesh
+Detect 468 3D face landmarks. 
+
 <img width="521" alt="image" src="https://github.com/yy7-f/Computer-Vision-Hand-Tracking-Finger-Count-Face-Detection-Face-Mesh-Pose-Estimation/assets/76237852/093c0fc3-30ee-4932-9226-8d0ad77857b4">
 
 ## Pose Estimation
+
+Detect 33 body landmark locations.  
 
 ![image](https://github.com/yy7-f/Computer-Vision-Hand-Tracking-Finger-Count-Face-Detection-Face-Mesh-Pose-Estimation/assets/76237852/eb6d2284-5c2e-4fb8-8e35-cc509af64c81)
 
